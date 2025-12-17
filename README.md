@@ -2,8 +2,6 @@
 
 An end-to-end **time-series forecasting pipeline** to predict **hourly and daily Global Active Power consumption** using the **UCI Individual Household Electric Power Consumption** dataset.
 
-**Hackathon-ready • Fully reproducible • Tested • Deployable (Streamlit + FastAPI)**
-
 ---
 
 ## 🚀 Project Summary
@@ -224,13 +222,6 @@ uvicorn app.api:app --reload
 
 ---
 
-## 👥 Team
-
-**Team Name:** YOUR TEAM NAME  
-**Event:** Hackathon 2025  
-
----
-
 ## ⚠️ Limitations & Future Work
 
 **Current Limitations:**
@@ -244,7 +235,4 @@ uvicorn app.api:app --reload
 - Automated retraining and monitoring  
 
 ---
-
-🎉 **Good luck in the hackathon!**  
-This README is clean, professional, and judge-friendly — just add your **team name and deployment links**, push to GitHub, and you’re ready to submit.
 
